@@ -7,7 +7,7 @@
 #define rows2 2
 #define cols2 2
 	
-//function prototypes
+//function prototypes 
 int addMatrices(int a[rows1][cols1], int b[rows2][cols2], int sum[rows1][cols2]);
 int multiplyMatrices(int a[rows1][cols1], int b[rows2][cols2], int product[rows1][cols2]);
 int printMatrix(int rows, int cols, int matrix[rows][cols]);

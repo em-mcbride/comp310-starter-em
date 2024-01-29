@@ -11,7 +11,7 @@ int factorial(int n) {
 
 int main(int argc, char *argv[]) {
     //calculate factorial of a number using recursion
-    int number = 5;
+    int number = 5; 
     printf("Factorial of %d is: %d\n", number, factorial(number));
 }
 

@@ -26,7 +26,7 @@ int main(int argc, char *argv[]) {
 		printf("\n");
     }
 
-	fclose(file);
+	fclose(file); 
 
 	return EXIT_SUCCESS;
 }
